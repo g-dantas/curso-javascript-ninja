@@ -1,8 +1,9 @@
 # Desafio Semana #1
+
 ```js
 // Declarar uma variável chamada `myvar`, sem valor.
 ?
-// ALTERANDO CHALLENGE-01
+
 // Após declarada, atribua o valor 10 à variável `myvar`.
 ?
 
